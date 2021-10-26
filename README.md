@@ -1,9 +1,10 @@
-_Juan Alberto Cabrera Garcia_
+__Juan Alberto Cabrera Garcia__
+__54056380-D__
 
-*Ingeniero Agronomo*
+* Ingeniero Agronomo
 
-*Master Ciencia e Ingenieria de Alimentos*
+* Master Ciencia e Ingenieria de Alimentos
 
-*Doctorado*
+* Doctorado
 
 
