@@ -1,1 +1,9 @@
-# aprender-markdown-juan-alberto-cabrera-garcia-alu0100360912
+_Juan Alberto Cabrera Garcia_
+
+*Ingeniero Agronomo*
+
+*Master Ciencia e Ingenieria de Alimentos*
+
+*Doctorado*
+
+
