@@ -34,3 +34,7 @@ https://www.icia.es/icia/download/Carismed/Juan_Alberto.pdf
 __SIMPOSIO INTERNACIONAL PAPAYA ISHS 2017__
 
 ![GitHub Logo](http://www.mexicoambiental.com/wp-content/uploads/2017/07/simposio-papaya.jpg)
+
+__NOVENO ENCUENTRO PAPAYEROS 2019__
+
+![GitHub Logo](https://cdn7.allevents.in/banners/7a089870-f895-11e9-8a5f-a7752fe8114d-rimg-w526-h526-gmir.jpg?v=1572165650)
