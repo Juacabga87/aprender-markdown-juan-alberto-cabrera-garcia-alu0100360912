@@ -30,3 +30,7 @@ https://www.cajamar.es/storage/documents/06-influencia-de-las-condiciones-agrocl
 JORNADAS CARISMED 2017
 
 https://www.icia.es/icia/download/Carismed/Juan_Alberto.pdf
+
+__SIMPOSIO INTERNACIONAL PAPAYA ISHS 2017__
+
+![GitHub Logo](http://www.mexicoambiental.com/wp-content/uploads/2017/07/simposio-papaya.jpg)
