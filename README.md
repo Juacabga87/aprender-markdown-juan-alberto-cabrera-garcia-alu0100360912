@@ -26,3 +26,7 @@ https://www.researchgate.net/profile/Juan-Cabrera-Garcia
 JORNADAS TÉCNICAS CULTIVO PAPAYA CAJAMAR 2016
 
 https://www.cajamar.es/storage/documents/06-influencia-de-las-condiciones-agroclimaticas-en-el-desarrollo-y-calidad-del-cultivo-en-canarias-juan-alberto-cabrera-1469700930-13328.pdf
+
+JORNADAS CARISMED 2017
+
+https://www.icia.es/icia/download/Carismed/Juan_Alberto.pdf
