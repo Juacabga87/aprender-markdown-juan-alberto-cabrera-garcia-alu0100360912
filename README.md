@@ -13,7 +13,7 @@ __54056380-D__
 
 https://portalciencia.ull.es/investigadores/82358/tesis
 
-![GitHub Logo](https://yoyvocacional.com/Blog/image.axd?picture=/ingagronomo2.png)
+<img src = "https://yoyvocacional.com/Blog/image.axd?picture=/ingagronomo2.png" width = "400" height = "200" alt = "Computer Hope">
 
 Perfil LINKEDIN
 
@@ -33,8 +33,9 @@ https://www.icia.es/icia/download/Carismed/Juan_Alberto.pdf
 
 __SIMPOSIO INTERNACIONAL PAPAYA ISHS 2017__
 
-![GitHub Logo](http://www.mexicoambiental.com/wp-content/uploads/2017/07/simposio-papaya.jpg)
+<div align="center"><img src = "http://www.mexicoambiental.com/wp-content/uploads/2017/07/simposio-papaya.jpg" width = "400" height = "200" alt = "Computer Hope"></div>
 
 __NOVENO ENCUENTRO PAPAYEROS 2019__
 
-![GitHub Logo](https://cdn7.allevents.in/banners/7a089870-f895-11e9-8a5f-a7752fe8114d-rimg-w526-h526-gmir.jpg?v=1572165650)
+<div align="center"><img src = "https://cdn7.allevents.in/banners/7a089870-f895-11e9-8a5f-a7752fe8114d-rimg-w526-h526-gmir.jpg?v=1572165650" width = "200" height = "300" alt = "Computer Hope"></div>
+
